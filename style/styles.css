@@ -117,8 +117,7 @@
 .formulario {
   margin: 1px;
 }
-.appleText {
-  font-size: ;
+.appleText {  
   width: 70%;
 }
 .googleText {
@@ -145,9 +144,8 @@ input {
   padding: 5px;
 }
 .innerForm{
-  padding: 150px
-  background-color: ;
-  ...
+  ... ;
+  padding: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
